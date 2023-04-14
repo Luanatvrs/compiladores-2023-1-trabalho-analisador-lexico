@@ -1,8 +1,7 @@
 # Trabalho: Analisador Léxico
 
 Nome dos alunos e números de matrícula:
-* Aluno: ___________________________
-* Aluno: ___________________________
+* Aluna: Luana Lorena de Matos Tavares
 * Disciplina: Compiladores
 * Semestre: 2023/1
 * Data de entrega: 26/04/2023
