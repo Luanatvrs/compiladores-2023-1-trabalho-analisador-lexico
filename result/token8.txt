@@ -1,4 +1,4 @@
-< Token id: 1, class: ID, value: switch >
+< Token id: 1, class: PR, value: switch >
 < Token id: 2, class: DL, value: ( >
 < Token id: 3, class: ID, value: valor >
 < Token id: 4, class: DL, value: ) >
@@ -73,7 +73,7 @@
 < Token id: 73, class: DL, value: ; >
 < Token id: 74, class: PR, value: break >
 < Token id: 75, class: DL, value: ; >
-< Token id: 76, class: ID, value: default >
+< Token id: 76, class: PR, value: default >
 < Token id: 77, class: DL, value: : >
 < Token id: 78, class: ID, value: printf >
 < Token id: 79, class: DL, value: ( >

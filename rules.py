@@ -3,7 +3,7 @@ from enum import Enum
 from dataclasses import dataclass
 
 class TokenClass(Enum):
-    PR = r"(struct\b|if\b|int\b|else\b|while\b|for\b|\bfloat\b|double\b|char\b|break\b|case\b|void\b|return)"
+    PR = r"(struct\b|if\b|int\b|else\b|while\b|do\b|for\b|\bfloat\b|double\b|char\b|long\b|short\b|break\b|continue\b|case\b|switch\b|default\b|void\b|return)"
     CN = r"(\d+(\.\d*)?|\.\d+)(?![a-zA-Z])"
     ID = r"([a-zA-Z_][a-zA-Z0-9_]*|main|printf)"
     CT = r'\".*?\"'  
