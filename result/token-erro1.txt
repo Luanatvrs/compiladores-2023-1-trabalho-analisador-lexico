@@ -1,0 +1,1 @@
+ValueError: Erro léxico: caractere inesperado: ™

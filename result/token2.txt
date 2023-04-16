@@ -1,0 +1,17 @@
+< Token id: 1, class: PR, value: struct >
+< Token id: 2, class: ID, value: abc >
+< Token id: 3, class: DL, value: { >
+< Token id: 4, class: PR, value: int >
+< Token id: 5, class: ID, value: a >
+< Token id: 6, class: DL, value: ; >
+< Token id: 7, class: PR, value: int >
+< Token id: 8, class: ID, value: b >
+< Token id: 9, class: DL, value: ; >
+< Token id: 10, class: DL, value: } >
+< Token id: 11, class: ID, value: printf >
+< Token id: 12, class: DL, value: ( >
+< Token id: 13, class: ID, value: a >
+< Token id: 14, class: OP, value: -> >
+< Token id: 15, class: ID, value: c >
+< Token id: 16, class: DL, value: ) >
+< Token id: 17, class: DL, value: ; >

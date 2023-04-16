@@ -1,0 +1,14 @@
+< Token id: 1, class: PR, value: int >
+< Token id: 2, class: ID, value: main >
+< Token id: 3, class: DL, value: ( >
+< Token id: 4, class: DL, value: ) >
+< Token id: 5, class: DL, value: { >
+< Token id: 6, class: ID, value: printf >
+< Token id: 7, class: DL, value: ( >
+< Token id: 8, class: CT, value: "Hello World" >
+< Token id: 9, class: DL, value: ) >
+< Token id: 10, class: DL, value: ; >
+< Token id: 11, class: PR, value: return >
+< Token id: 12, class: CN, value: 0 >
+< Token id: 13, class: DL, value: ; >
+< Token id: 14, class: DL, value: } >
