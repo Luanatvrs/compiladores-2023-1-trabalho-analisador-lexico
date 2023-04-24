@@ -2,6 +2,7 @@
 
 Nome dos alunos e números de matrícula:
 * Aluna: Luana Lorena de Matos Tavares
+* Aluno: Carlos Eduardo Viana Lima
 * Disciplina: Compiladores
 * Semestre: 2023/1
 * Data de entrega: 26/04/2023
